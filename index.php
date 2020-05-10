@@ -23,7 +23,9 @@
 
 
 
+
 			<!-- Carousel -->
+
 
 
 
@@ -80,7 +82,10 @@
 
 
 
+
 			<!-- navbar section -->
+
+
 
 
 
@@ -190,7 +195,8 @@
 
 
 
-<div class="container-fluid cont-fluids">
+
+<section class="container-fluid cont-fluids">
 	<div class="container">
 		<div class="row">
 
@@ -228,7 +234,6 @@
 					</div>
 				</div>
 			</div>
-
 
 
 
@@ -290,7 +295,6 @@
 					</div>
 				</div>
 			</div>
-
 
 
 
@@ -380,7 +384,7 @@
 	
 		</div>
 	</div>	
-</div>
+</section>
 
 
 
@@ -391,6 +395,79 @@
 
 
 
+
+
+
+
+<section class="container-fluid section-2-fluid">
+	<div class="sec-2-opacity-div">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					
+					<div class="row">
+
+						<div class="col-md-4 sec-2-left-parent">
+							<div class="sec-2-left-part">
+								<i class="fa fa-random">  </i>
+							</div>
+						</div>
+
+						<div class="col-md-8">
+							<div class="row pb-3">
+								<div class="col-md-12">
+									<h3 class="right-p-1">
+										LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT VIVAMUS.
+									</h3>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-12">
+									<div> 
+										<i class="fa fa-arrow-right" aria-hidden="true"> </i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id pharetra.
+									</div>
+									
+									<div> 
+										<i class="fa fa-arrow-right" aria-hidden="true"> </i> Lorem ipsum dolor sit amet, consectetur.
+									</div>
+
+									<div> 
+										<i class="fa fa-arrow-right" aria-hidden="true"> </i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+									</div>
+
+									<div> 
+										<i class="fa fa-arrow-right" aria-hidden="true"> </i> Lorem ipsum dolor sit amet, consectetur Vivamus.
+									</div>
+								</div>
+							</div>
+
+							<div class="row pt-4">
+								<span class="pl-3">
+									<button class="sec2-col2-btn1"> Lorem Ipsum </button>
+								</span>
+
+								<span class="pl-3">
+									<button class="sec2-col2-btn2"> Dolor Sit Amet </button>
+								</span>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+
+			<!-- section 3 -->
 
 
 

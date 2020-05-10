@@ -20,7 +20,7 @@
 	margin: 0;
 	font-size: 60px;
 	color: white;
-	font-family: serif;
+	font-family: "Times New Roman", Times, serif;
 }
 .btn-p{
 	color: white;
@@ -147,9 +147,75 @@ hr{
 
 
 
+.section-2-fluid{
+	height: 500px;
+	width: 100%;
+	background-image: url(assets/section-2-pictures/section2back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 100px;
+	position: relative;
+}
+.sec-2-opacity-div{
+	opacity: 0.8;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(241,241,241,0.8);
+	height: 100%;
+	width: 100%;
+}
+
+.sec-2-left-parent{
+	padding-top: 90px;
+	height:	100%;
+	width:	100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.sec-2-left-part{
+	height: 300px;
+	width: 300px;
+	border-radius: 100%;
+	background-color: rgba(241, 241, 241, 0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fa-random{
+	color: #56AED4;
+	font-size: 130px;
+}
+.right-p-1{
+	padding-top: 100px;
+	font-family: "Times New Roman", Times, serif;
+}
+.sec2-col2-btn1{
+	color: white;
+	background-color: #56AED4;
+	outline: none;
+	border: none;
+	border-radius: 5px; 
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 14px;
+	padding: 6px 12px;
+}
+.sec2-col2-btn2{
+	color: white;
+	background-color: #FF9900;
+	outline: none;
+	border: none;
+	border-radius: 5px; 
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 14px;
+	padding: 6px 12px;
+}
 
 
 
 
-
-
+			/* section 3 */
