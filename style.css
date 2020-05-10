@@ -1,4 +1,4 @@
-				/* carousel part */
+			/* carousel part */
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-		/* Navbar section */
+			/* Navbar section */
 
 
 
@@ -69,6 +69,8 @@ a{
 	right: 5%;
 }
 .brand{
+	font-size: 30px !important;
+	font-family: "Times New Roman", Times, serif;
 	margin-left: 5%;
 
 }
@@ -89,18 +91,58 @@ a{
 
 
 
+			/* Section 1 */
 
 
 
 
 
+.cont-fluids{
+	padding: 80px;
+}
+
+/* column 1 */
+.sec-1-col-1-p-1{
+	font-family: "Times New Roman", Times, serif;
+	margin: 30px 0 30px;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+}
+.sec1-col-1-btn{
+	color: white;
+	background-color: #56AED4;
+	outline: none;
+	border: none;
+	border-radius: 5px; 
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 14px;
+	padding: 6px 12px;
+}
+
+/* column 2 */
+.sec-1-col-2-p-1{
+	font-family: "Times New Roman", Times, serif;
+	margin: 0 0 30px;
+}
+.col-2-p-2{
+	margin: 0 0 30px;
+}
+.col-2-link{
+	color: blue !important;
+}
+.col-1-numbers{
+	font-size: 70px !important;
+}
+hr{
+	background-color: black;
+}
 
 
 
 
-
-
-
+			/* Section 2 */
 
 
 

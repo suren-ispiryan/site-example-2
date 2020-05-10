@@ -12,6 +12,8 @@
 		<!--  bootstrap cdn for js -->
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	<script src="https://code.jquery.com/jquery-3.5.0.js" integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc=" crossorigin="anonymous"></script>
+		<!-- icon cdn -->
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
 	<title> example 2 </title>
 </head>
@@ -87,7 +89,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light navbar-prop">
 	
-	<a class="navbar-brand brand" href="#"> Navbar </a>
+	<a class="navbar-brand brand" href="#"> <i class="fas fa-sync">  </i> Transform </a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
@@ -176,6 +178,216 @@
 </nav>
 
 
+
+
+
+
+			<!-- Section 1 -->
+
+
+
+
+
+
+
+<div class="container-fluid cont-fluids">
+	<div class="container">
+		<div class="row">
+
+
+
+	<!-- Section 1 coloumn 1 -->
+
+
+			<div class="col-md-4">
+				<div class="row">
+					<div class="col-md-12">
+						<img src="assets/section-1-pictures/section-1-monitor-pic.jpg" class="img-fluid">
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="sec-1-col-1-p-1">
+							LOREM IPSUM DOLOR SIT AMET, CONSECT ETUR ADIPISICING.
+						</h2>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris, non feugiat odio dui in dui. Aenean ut facilisis dui. Etiam in rutrum nisi. Quisque porta scelerisque est, sit amet interdum nisi semper in.
+						</p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+						<button class="sec1-col-1-btn"> READ MORE >> </button>
+					</div>
+				</div>
+			</div>
+
+
+
+
+	<!-- Section 1 coloumn 2 -->
+
+
+			<div class="col-md-4">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="sec-1-col-2-p-1">
+							THE TOP 3 REASONS
+						</h2>
+					</div>	
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+						<p class="col-2-p-2">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris, non <a href="#" class="col-2-link"> feugiat odio dui in dui </a>. Aenean ut facilisis dui.
+						</p>
+					</div>	
+				</div>
+
+
+				<div class="row">
+					<div class="col-md-2">
+						<p class="col-1-numbers"> 1. </p>
+					</div>	
+					<div class="col-md-10">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris non feugiat.
+						</p>
+					</div>	
+				</div>
+
+				<hr>
+
+				<div class="row pt-2">
+					<div class="col-md-2">
+						<p class="col-1-numbers"> 2. </p>
+					</div>	
+					<div class="col-md-10">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris non feugiat.
+						</p>
+					</div>
+				</div>
+
+				<hr>
+
+				<div class="row pt-2">
+					<div class="col-md-2">
+						<p class="col-1-numbers"> 3. </p>
+					</div>	
+					<div class="col-md-10">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris non feugiat.
+						</p>
+					</div>
+				</div>
+			</div>
+
+
+
+
+	<!-- Section 1 coloumn 3 -->
+
+
+			<div class="col-md-4">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="sec-1-col-2-p-1">
+							FROM THE BLOG
+						</h2>
+					</div>	
+				</div>
+
+				<div class="row">
+					<div class="col-md-6">
+						<img src="assets/section-1-pictures/image1.jpg" class="img-fluid">
+					</div>
+
+					<div class="col-md-6">
+						<div class="row">
+							<div  class="col-md-12">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adi pisc ing elit vivamus…
+								</p>		
+							</div>
+						</div>
+
+						<div class="row">
+							<div  class="col-md-12">
+								<button class="sec1-col-1-btn"> READ MORE >> </button>
+							</div>
+						</div>
+					</div>	
+				</div>
+				
+				<hr>
+
+				<div class="row  mt-5">
+					<div class="col-md-6">
+						<img src="assets/section-1-pictures/image2.jpg" class="img-fluid">
+					</div>
+
+					<div class="col-md-6">
+						<div class="row">
+							<div  class="col-md-12">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adi pisc ing elit vivamus…
+								</p>		
+							</div>
+						</div>
+
+						<div class="row">
+							<div  class="col-md-12">
+								<button class="sec1-col-1-btn"> READ MORE >> </button>
+							</div>
+						</div>
+					</div>	
+				</div>
+
+				<hr>
+
+				<div class="row  mt-5">
+					<div class="col-md-6">
+						<img src="assets/section-1-pictures/image3.jpg" class="img-fluid">
+					</div>
+
+					<div class="col-md-6">
+						<div class="row">
+							<div  class="col-md-12">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adi pisc ing elit vivamus…
+								</p>		
+							</div>
+						</div>
+
+						<div class="row">
+							<div  class="col-md-12">
+								<button class="sec1-col-1-btn"> READ MORE >> </button>
+							</div>
+						</div>
+					</div>	
+				</div>
+
+			</div>
+	
+		</div>
+	</div>	
+</div>
+
+
+
+
+
+
+			<!-- Section 2 -->
 
 
 
