@@ -1,0 +1,113 @@
+				/* carousel part */
+
+
+
+.carousel-btns{
+	height: 12px !important;
+	width: 12px !important;
+	border-radius: 100%;
+	border: 2px #686868 solid !important;
+	background-color: #FFFFFF;	
+}
+
+/* image sevtions */
+.first-p{
+	color: white;
+	font-size: 180px;
+	font-family: serif;
+}
+.second-p{
+	margin: 0;
+	font-size: 60px;
+	color: white;
+	font-family: serif;
+}
+.btn-p{
+	color: white;
+	background-color: #56AED4;
+	outline: none;
+	border: none;
+	border-radius: 10px; 
+	text-decoration: none;
+	cursor: pointer;
+	padding: 10px 22px;
+	font-size: 19px;
+}
+
+/* carousel opacity part */
+.opacity-div-parent{
+	position: relative;
+}
+.opacity-div{
+	opacity: 0.5;
+	position: absolute;
+	top: 0;
+	background-color: black;
+	height: 100%;
+	width: 100%;
+}
+
+
+
+
+		/* Navbar section */
+
+
+
+
+
+.navbar-prop{
+	height: 102px;
+	background-color: #272727 !important;
+	position: relative;
+}
+a{
+	color: white !important;
+}
+.ul{
+	position: absolute;
+	right: 5%;
+}
+.brand{
+	margin-left: 5%;
+
+}
+.dropdown{
+	padding-right: 15px !important;
+	background-color: #272727 !important;
+	background-color: rgba(39, 39, 39, 0.5) !important;
+}
+.dropdown-single{
+	padding-right: 25px !important;
+}
+.dr{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
