@@ -219,3 +219,53 @@ hr{
 
 
 			/* section 3 */
+
+
+
+.sec-3-container{
+	padding-bottom: 200px;
+}
+.sec3-p1{
+	text-align: center;
+}
+.round{
+	border-radius: 100% !important;
+}
+.name{
+	color: cyan;
+	font-family: "Times New Roman", Times, serif;
+}
+.fa-phone{
+	font-size: 14px;
+}
+/* Mini text slider */
+.textslider{
+	margin-top: 50px;
+	margin-bottom: 30px;
+	color: black;
+	font-size: 14px;
+	font-family: serif;
+	padding: 20px;
+	border: 1px black solid;
+} 
+.slide{
+	padding-bottom: 30px;
+}
+.sec-3-last-text{
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

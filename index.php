@@ -474,6 +474,124 @@
 
 
 
+<section class="container-fluid">
+	<div class="container sec-3-container">
+		<div class="row">
+			<div class="col-md-12">	
+
+				<div class="row">
+			<!-- section 3 left -->
+					<div class="col-md-6">				
+						<h4 class="pb-3 sec3-p1"> LOREM IPSUM DOLOR SIT AMET </h4>
+						<p class="pb-2 sec3-p1"> 
+							rem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris. 
+						</p>
+
+						<div class="row pt-4 pb-4">
+							<div class="col-md-5">
+								<img src="assets/section-3-pictures/img1.png" class="round img-fluid">	
+							</div>
+							<div class="col-md-7">
+								<h4 class="name"> Jane Doe </h4>
+								<p> Job Title Here </p>
+								<p class="pt-2"> 
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris. 
+								</p>
+								<i class="fa fa-phone"> 1001000 1101001 </i>
+							</div>					
+						</div>
+
+						<div class="row pt-5 pb-4">
+							<div class="col-md-5">
+								<img src="assets/section-3-pictures/img2.png" class="round img-fluid">	
+							</div>
+							<div class="col-md-7">
+								<h4 class="name"> John Doe </h4>
+								<p> Job Title Here </p>
+								<p class="pt-2"> 
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris. 
+								</p>
+								<i class="fa fa-phone"> 1001000 1101001 </i>
+							</div>					
+						</div>
+					</div>
+
+			<!-- section 3 right -->
+					<div class="col-md-6">
+						<h4 class="pb-3 sec3-p1"> LOREM IPSUM DOLOR SIT AMET </h4>
+						<p class="pb-2 sec3-p1"> 
+							rem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris. 
+						</p>
+
+
+<!-- Mini text carousel -->
+					
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+	<ol class="carousel-indicators">
+		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="carousel-btns"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="1" class="carousel-btns"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="2" class="carousel-btns"></li>
+	</ol>
+
+	<div class="carousel-inner">
+  		<div class="carousel-item active">
+			<!-- text on slide 1 -->
+			<div class="d-none d-md-block">
+				<p class="textslider"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris, non feugiat odio dui in dui. Aenean ut facilisis dui. Etiam in rutrum nisi.
+				<br> <br>
+				Quisque porta scelerisque est, sit amet interdum nisi semper in. Etiam eu hendrerit nibh. Aenean porttitor molestie accumsan.
+				<br> <br>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris, non feugiat odio dui in dui. Aenean ut facilisis dui. Etiam in rutrum nisi. Quisque porta scelerisque est, sit ame. </p>
+			</div>
+		</div>
+ 
+ 		<div class="carousel-item">
+			<!-- text on slide 2 -->
+			<div class="d-none d-md-block">
+				<p class="textslider"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis, urna vel fringilla sagittis, nunc dolor pellentesque mauris, non feugiat odio dui in dui. Aenean ut facilisis dui. Etiam in rutrum nisi.
+				<br> <br>
+				Quisque porta scelerisque est, sit amet interdum nisi semper in. Etiam eu hendrerit nibh. Aenean porttitor molestie accumsan. </p>
+			</div>
+		</div>
+    
+		<div class="carousel-item">
+			<!-- text on slide 3 -->
+			<div class="d-none d-md-block">
+				<p class="textslider"> Phasellus felis metus, ornare nec consectetur a, placerat eu felis. Phasellus quis enim orci. Etiam vel dui nisi, sed semper urna. Ut mattis dignissim lacus, vitae pretium neque volutpat nec. </p>
+			</div>
+		</div>
+	</div>
+	
+	<h6>Name Goes Here 
+		<p class="sec-3-last-text">
+			Company name
+		</p>
+	</h6>
+	
+</div>	
+	
+<!-- End of carousel -->
+				
+
+			
+					</div>
+				</div>
+			</div>			
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
