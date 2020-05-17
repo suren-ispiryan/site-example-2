@@ -21,11 +21,11 @@
 
 
 
+<div id="sliderTop"> </div>
 
 
 
 			<!-- Carousel -->
-
 
 
 
@@ -571,9 +571,7 @@
 	
 </div>	
 	
-<!-- End of carousel -->
-				
-
+<!-- End of carousel -->		
 			
 					</div>
 				</div>
@@ -589,8 +587,218 @@
 
 
 
+			<!-- section 4 -->
 
 
+
+
+
+<section class="container-fluid">
+	<div class="container sec-4-container">
+		<div class="row">
+			<div class="col-md-12">
+				
+				<div class="row">
+					<div class="col-md-12 arrow-parent">
+						<hr class="hr">
+						<a href="#sliderTop">
+							<div class="arrow">
+								<i class="fas fa-arrow-up"> </i>
+							</div>
+						</a>
+					</div>
+				</div>		
+
+			</div>
+		</div>
+	</div>	
+</section>
+
+
+
+
+
+
+
+
+			<!-- section 5 -->
+
+
+
+
+
+
+
+<section class="container-fluid pb-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				
+				<div class="row">
+
+						<!-- col 1 -->
+					<div class="col-md-3 sec5cols">
+						<div class="row">
+							<div class="col-md-12">
+								<p class="sec5-col1-p"> Lorem Ipsum Dolor </p>
+								<div class="progress">
+ 									<div class="progress-bar progress" style="width:20%"></div>
+								</div>
+							</div>
+
+							<ul class="pt-3 sec5-ul">
+								<li class="li"> 
+									<a href="#" class="a"> Home Page </a>
+								</li>
+
+								<li class="li"> 
+									<a href="#" class="a"> Our Services </a>
+								</li>
+
+								<li class="li"> 
+									<a href="#" class="a"> Meet The Team</a>
+								</li>
+
+								<li class="li"> 
+									<a href="#" class="a"> Our Blog </a>
+								</li>
+
+								<li class="li"> 
+									<a href="#" class="a"> Contact Us </a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				
+						<!-- col 2 -->
+					
+					<div class="col-md-3 sec5cols">
+						<div class="row">
+							<div class="col-md-12">
+								<p class="sec5-col1-p"> Lorem Ipsum Dolor </p>
+								<div class="progress">
+ 									<div class="progress-bar progress" style="width:20%"></div>
+								</div>
+							</div>
+
+							<div class="row pt-4">
+								<div class="col-md-12">
+									<p class="sec5-col2-p1">
+										To sign-up for our newsletter simply enter your email below
+									</p>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<form action="#" method="POST">
+										<input type="email" name="mail" placeholder="Email Here" id="input">
+										<input type="submit" name="btn" id="form-Btn">
+									</form>
+								</div>
+							</div>
+
+							<div class="row pt-4">
+								<div class="col-md-12">
+									<p> Follow us in the social networks </p>
+									<i class="icons fab fa-facebook-f"> </i>
+									<i class="icons fab fa-pinterest"> </i>
+									<i class="icons fab fa-twitter"> </i>
+									<i class="icons fas fa-basketball-ball"> </i>
+									<i class="icons fab fa-linkedin-in"> </i>
+									<i class="icons fab fa-google-plus-g"> </i>
+								</div>
+							</div>
+
+						</div>
+					</div>
+						<!-- col 3 -->
+					
+					<div class="col-md-3 sec5cols">
+						<div class="row">
+							<div class="col-md-12">
+								<p class="sec5-col1-p"> Lorem Ipsum Dolor </p>
+								<div class="progress">
+ 									<div class="progress-bar progress" style="width:20%"></div>
+								</div>
+ 	
+ 									<ul class="pt-3 sec5-ul">
+										<li class="li"> 
+											<i class="fa fa-arrow-right" aria-hidden="true"> </i>
+											<a href="#" class="a"> Quisque porta scelerisque </a>
+										</li>
+
+										<li class="li"> 
+											<i class="fa fa-arrow-right" aria-hidden="true"> </i>
+											<a href="#" class="a"> Sit amet interdum nisi semper </a>
+										</li>
+	
+										<li class="li">
+											<i class="fa fa-arrow-right" aria-hidden="true"> </i> 
+											<a href="#" class="a"> Etiam eu hendrerit nibh </a>
+										</li>
+
+										<li class="li">
+											<i class="fa fa-arrow-right" aria-hidden="true"> </i> 
+											<a href="#" class="a"> Aenean porttitor molestie </a>
+										</li>
+
+										<li class="li"> 
+											<i class="fa fa-arrow-right" aria-hidden="true"> </i>
+											<a href="#" class="a"> Consectetur adipiscing elit </a>
+										</li>
+									</ul>
+
+
+							</div>
+						</div>
+					</div>
+
+						<!-- col 4 -->
+					<div class="col-md-3 sec5cols">
+						<div class="row">
+							<div class="col-md-12">
+								<p class="sec5-col1-p"> Lorem Ipsum Dolor </p>
+								<div class="progress">
+ 									<div class="progress-bar progress" style="width:20%"></div>
+								</div>
+
+								<p class="pt-3">
+									Aenean semper elementum tellus, ut placerat leo. Quisque vehicula, urna sit amet pulvinar dapibus, dui leo.
+								</p>
+
+								<p>
+									Street Name & Number Town
+									<br>
+									Postcode/Zip
+								</p>
+							
+								<p>
+									<i class="far fa-stopwatch"> </i> Mon. - Fri. 9:00am - 7:00pm
+								</p>
+
+								<p>
+									<i class="fas fa-phone"> </i>  1001000 1101001
+								</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				
+
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+
+			<!-- section 6 -->
 
 
 
