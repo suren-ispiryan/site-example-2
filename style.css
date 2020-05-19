@@ -57,6 +57,7 @@
 
 
 .navbar-prop{
+	z-index: 999;
 	height: 102px;
 	background-color: #272727 !important;
 	position: relative;
@@ -76,8 +77,8 @@ a{
 }
 .dropdown{
 	padding-right: 15px !important;
-	background-color: #272727 !important;
-	background-color: rgba(39, 39, 39, 0.5) !important;
+	padding-left: 15px !important;
+	background-color: rgba(39, 39, 39) !important;
 }
 .dropdown-single{
 	padding-right: 25px !important;
@@ -365,6 +366,35 @@ html {
 
 
 
+.sec6-cont{
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+}
+.sec6-parrent{
+	height: 40px;
+	position: relative;
+}
+.sec6-btn{
+	height: 50px;
+	width: 220px;
+	position: absolute;
+	bottom: 0px;
+	left: 40%;
+	cursor: pointer;
+	color: white;
+	background-color: #34495E;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	outline: none;
+	border: none;
+	border-radius: 7px;
+	transition: background 0.5s;
+}
+.sec6-btn>i{
+	transition: transform 0.5s;
+	font-size: 28px;
+}
 
 
 
@@ -372,9 +402,31 @@ html {
 
 
 
+			/* Footer */
 
 
 
+.footer-parent{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 50px;
+}
+.footer-a{
+	color: #34495E !important;
+	padding-right: 5px; 
+}
+.footer-child{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+.footer-p{
+	margin: 0; 
+	padding-right: 5px; 
+}
 
 
 
@@ -385,9 +437,11 @@ html {
 			/* Hover part */
 
 
+
+
+
 	/* sec 5 */
 .a{
-  transition: color 0.18s ease, background-color 0.18s ease, border-color 0.18s ease;
   outline: none;
   color: #161616;
   text-decoration: none;
@@ -401,9 +455,13 @@ html {
   outline: none;
 }
 
-
-
-
+	/* sec 6 */
+.sec6-btn:hover{
+	background-color: #56AED4;
+}
+.sec6-btn>i:hover{
+	transform: rotate(360deg);
+}
 
 
 

@@ -102,7 +102,7 @@
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<ul class="navbar-nav ul">
 			<li class="nav-item">
- 				<a class="nav-link dropdown-single" href="#"> 
+ 				<a class="nav-link dropdown-single dropdown" href="#"> 
  					HOME
  				</a>
 			</li>
@@ -800,6 +800,58 @@
 
 			<!-- section 6 -->
 
+
+
+
+
+<section class="container-fluid sec6-cont">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 sec6-parrent">
+				
+				<hr>
+				<button class="sec6-btn"> <i class="fas fa-sync xx">  </i> Transform  </button>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+			<!-- footer 7 -->
+
+
+
+
+
+<footer class="container-fluid">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				
+				<div class="row footer-parent">
+					<div class="col-md-12 footer-child">
+						<p class="footer-p">
+							Copyright © 2009 - 2020. All Rights Reserved | 
+						</p>
+						<a href="#" class="footer-a"> Link1 / </a>
+						<a href="#" class="footer-a"> Link2 / </a>
+						<a href="#" class="footer-a"> Link3 / </a>
+						<a href="#" class="footer-a"> Link4 / </a>
+						<a href="#" class="footer-a"> Link5 </a>
+					</div> 
+					
+					
+				</div>
+
+			</div>
+		</div>
+	</div>
+</footer>
 
 
 
